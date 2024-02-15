@@ -5,6 +5,7 @@ const MyNav = () => {
   const [navbar, setnavbar] = useState(false)
   function view() {
     setnavbar(!navbar)
+    document.body.classList.toggle("max-md:overflow-hidden")
   }
   return (
     <div>

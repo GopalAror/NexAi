@@ -26,7 +26,7 @@ function App() {
   return (
     <div>
       {loading ? (<div><Loader /></div>) : (<div className="bg-[#040404]">
-        <div className='md:px-[30px] md:py-[10px] relative overflow-x-clip'>
+        <div className=' md:py-[10px] relative overflow-x-clip'>
           <div className='bg-[url(./assets/images/bg-hero.webp)] w-full bg-full max-md:bg-cover bg-no-repeat min-h-screen bg-center flex flex-col'>
             <MyNav />
             <Header />

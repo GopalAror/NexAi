@@ -7,7 +7,7 @@ import intelligent from "../assets/images/intelligent.svg";
 const Feature = () => {
     return (
         <div className='sm:px-[50px] px-2 pt-[75px] md:pt-[120px]'>
-            <div className="w-full scroll overflow-hidden min bg-[url(./assets/images/unique-bg.webp)] rounded-[24px] border border-[#FCFCFC] max-w-[1340px] mx-auto relative h-[750px] bg-full bg-no-repeat overflow-y-scroll px-3" id="market">
+            <div className="w-full scroll relative z-[1] overflow-hidden min bg-[url(./assets/images/unique-bg.webp)] rounded-[24px] border border-[#FCFCFC] max-w-[1340px] mx-auto h-[750px] bg-full bg-no-repeat overflow-y-scroll px-3" id="market">
                 <div className="max-w-[1140px] relative py-2 px-3 w-full mx-auto">
                     <div className='md:py-[80px] sm:py-[40px] py-8 flex flex-col items-center'>
                         <h2 className='md:text-[40px] sm:text-[30px] text-[20px] ff-recharge text-[#FCFCFC] text-center  font-bold leading-[50px]'>Unique features</h2>

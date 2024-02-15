@@ -2,6 +2,11 @@ import React from 'react'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+import ellipis1 from "../assets/images/chain-ellipis1.svg";
+import ellipis2 from "../assets/images/chain-ellipis2.svg";
+import ellipis3 from "../assets/images/chain-ellipis3.svg";
+import ellipis4 from "../assets/images/chain-ellipis4.svg";
+import ellipis5 from "../assets/images/chain-ellipis5.svg";
 
 const BlockChain = () => {
     var settings = {
@@ -65,8 +70,13 @@ const BlockChain = () => {
         ]
     };
     return (
-        <div>
-            <div className="max-w-[1140px] mx-auto px-3 pt-[70px] md:pt-[160px] container1">
+        <div className='relative overflow-x-clip'>
+            <img className='absolute z-0 left-0 top-[9%]' src={ellipis1} alt="ellipis1" />
+            <img className='absolute right-0 top-[-30%] z-0 ' src={ellipis2} alt="ellipis1" />
+            <img className='absolute right-0 top-0 z-0 ' src={ellipis3} alt="ellipis1" />
+            <img className='absolute left-0 bottom-[-20%] z-0 ' src={ellipis4} alt="ellipis1" />
+            <img className='absolute z-0 right-0 bottom-[-50%]' src={ellipis5} alt="ellipis1" />
+            <div className="max-w-[1140px] relative z-[1] mx-auto px-3 pt-[70px] md:pt-[160px] container1">
                 <div className='flex flex-col items-center'>
                     <h2 className='text-[#02CDCF] ff-recharge font-bold leading-[50px] text-center sm:text-[30px] text-[20px] md:text-[40px]'>Blockchain & AI technology</h2>
                     <p className='sm:pt-4 text-white opacity-70 text-center font-poppins font-normal text-[13px] sm:text-[16px] leading-[25px] max-w-[997px]'>Nexai is an advanced home assistant that will revolutionize the way we interact with our smart devices at home. Powered by sophisticated artificial intelligence, it leverages blockchain technology to offer a secure and efficient user experience.</p>

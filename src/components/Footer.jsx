@@ -5,7 +5,7 @@ import telegram from "../assets/images/telegram.svg";
 
 const Footer = () => {
     return (
-        <div className='bg-[url(./assets/images/footer-bg.webp)] bg-full max-sm:bg-cover bg-no-repeat w-full h-full'>
+        <div className='bg-[url(./assets/images/footer-bg.webp)] relative z-[1] bg-full max-md:bg-cover bg-no-repeat w-full h-full'>
             <div className="max-w-[1140px] mx-auto px-3 mt-[31px]">
                 <div className="flex flex-row flex-wrap justify-between -mx-3 pb-[30px]">
                     <div className="md:w-6/12 w-full px-3 max-w-[356px] pt-14">

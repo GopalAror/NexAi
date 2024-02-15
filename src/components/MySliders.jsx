@@ -49,7 +49,7 @@ const MySliders = () => {
         ]
     }
     return (
-        <div>
+        <div className='relative z-[1]'>
             <div className="max-w-[912px] mx-auto px-3 sm:pt-[140px] pt-[70px] md:pt-[200px] pb-[45px] sm:pb-[90px]">
                 <h2 className='text-[#02CDCF] ff-recharge font-bold leading-[25px] sm:leading-[50px] text-center sm:text-[30px] text-[20px] md:text-[40px]'>NexAi does all this. And more.</h2>
                 <p className='sm:pt-4 pt-2 text-white text-center font-poppins font-normal text-[13px] sm:text-[16px] leading-[20px] sm:leading-[25px] opacity-70 max-w-[997px]'>Nexai is an advanced home assistant that will revolutionize the way we interact with our smart devices at home. Powered by sophisticated artificial intelligence, it leverages blockchain technology to offer a secure and efficient user experience.</p>

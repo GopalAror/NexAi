@@ -1,11 +1,15 @@
 import React from 'react'
 import home from "../assets/images/home-img.webp";
 import Commonbtn from './Commonbtn'
+import ellipis1 from "../assets/images/home-ellipis1.svg";
+import ellipis2 from "../assets/images/home-ellipis2.svg";
 
 const Home = () => {
     return (
-        <div>
-            <div className="max-w-[1180px] md:pb-[72px] md:pt-[130px] px-3 mx-auto" id="home">
+        <div className='relative overflow-x-clip'>
+            <img className='absolute z-0' src={ellipis1} alt="ellipis" />
+            <img className='absolute right-0 top-[-20%] z-0' src={ellipis2} alt="ellipis" />
+            <div className="max-w-[1180px] relative z-[1] md:pb-[72px] md:pt-[130px] px-3 mx-auto" id="home">
                 <div className="flex flex-row flex-wrap -mx-3">
                     <div className="md:w-6/12 w-full pr-3 max-w-[612px]">
                         <img className='max-w-[612px] w-full' src={home} alt="home-img" />
