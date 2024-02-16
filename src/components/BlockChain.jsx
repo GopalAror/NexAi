@@ -95,7 +95,7 @@ const BlockChain = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='ml-5 translate-y-[30%]'>
+                    <div className='ml-5 sm:translate-y-[30%]'>
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
@@ -115,7 +115,7 @@ const BlockChain = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='ml-5 translate-y-[30%]'>
+                    <div className='ml-5 sm:translate-y-[30%]'>
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
