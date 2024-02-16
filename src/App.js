@@ -12,6 +12,8 @@ import Footer from './components/Footer';
 import Loader from './components/Loader';
 import { useEffect, useState } from 'react';
 import BackToTop from './components/BackToTop';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 function App() {
   const [loading, setloading] = useState(false);
@@ -22,7 +24,14 @@ function App() {
     }, 4000);
 
   }, [])
-
+  useEffect(() => {
+    AOS.init(
+      {
+        once : true,
+        duration : 2000,
+      }
+    );
+  }, [])
   return (
     <div>
       {loading ? (<div><Loader /></div>) : (<div className="bg-[#040404]">

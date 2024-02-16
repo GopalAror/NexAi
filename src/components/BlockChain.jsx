@@ -78,14 +78,14 @@ const BlockChain = () => {
             <img className='absolute z-0 right-0 bottom-[-50%]' src={ellipis5} alt="ellipis1" />
             <div className="max-w-[1140px] relative z-[1] mx-auto px-3 pt-[70px] md:pt-[160px] container1">
                 <div className='flex flex-col items-center'>
-                    <h2 className='text-[#02CDCF] ff-recharge font-bold leading-[50px] text-center sm:text-[30px] text-[20px] md:text-[40px]'>Blockchain & AI technology</h2>
-                    <p className='sm:pt-4 text-white opacity-70 text-center font-poppins font-normal text-[13px] sm:text-[16px] leading-[25px] max-w-[997px]'>Nexai is an advanced home assistant that will revolutionize the way we interact with our smart devices at home. Powered by sophisticated artificial intelligence, it leverages blockchain technology to offer a secure and efficient user experience.</p>
-                    <p className='pt-[40px] sm:pt-[96px] pb-[25px] sm:pb-[60px] text-white ff-recharge font-bold text-[16px] sm:text-[20px] leading-[32px] text-center max-w-[684px]'>By building the software on blockchain, Nexai provides the following advantages</p>
+                    <h2 className='text-[#02CDCF] ff-recharge font-bold leading-[50px] text-center sm:text-[30px] text-[20px] md:text-[40px]' data-aos="zoom-in-down">Blockchain & AI technology</h2>
+                    <p className='sm:pt-4 text-white opacity-70 text-center font-poppins font-normal text-[13px] sm:text-[16px] leading-[25px] max-w-[997px]' data-aos="zoom-in-down">Nexai is an advanced home assistant that will revolutionize the way we interact with our smart devices at home. Powered by sophisticated artificial intelligence, it leverages blockchain technology to offer a secure and efficient user experience.</p>
+                    <p className='pt-[40px] sm:pt-[96px] pb-[25px] sm:pb-[60px] text-white ff-recharge font-bold text-[16px] sm:text-[20px] leading-[32px] text-center max-w-[684px]' data-aos="zoom-in-down">By building the software on blockchain, Nexai provides the following advantages</p>
                 </div>
             </div>
             <div className='max-w-[100vw] sm:ml-[10%] md:ml-[10%] sm:pl-3'>
                 <Slider className='hexa' {...settings}>
-                    <div className='ml-5'>
+                    <div className='ml-5' data-aos="zoom-in-down">
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
@@ -95,7 +95,7 @@ const BlockChain = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='ml-5 translate-y-[30%]'>
+                    <div className='ml-5 translate-y-[30%]' data-aos="zoom-in-down">
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
@@ -105,7 +105,7 @@ const BlockChain = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='ml-5'>
+                    <div className='ml-5' data-aos="zoom-in-down">
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
@@ -115,7 +115,7 @@ const BlockChain = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='ml-5 translate-y-[30%]'>
+                    <div className='ml-5 translate-y-[30%]' data-aos="zoom-in-down">
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
