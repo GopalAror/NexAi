@@ -89,9 +89,9 @@ const BlockChain = () => {
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
-                                    <p className='ff-recharge text-[32px] leading-[51px] text-white font-bold text-center'>1</p>
+                                    <p className='ff-recharge text-[24px] sm:text-[32px] leading-[51px] text-white font-bold text-center'>1</p>
                                 </div>
-                                <h4 className='ff-recharge text-[20px] leading-[32px] max-w-[212px] pt-[30px] text-white font-bold text-center'>Security and Privacy</h4>
+                                <h4 className='ff-recharge text-[16px] sm:text-[20px] leading-[32px] max-w-[212px] pt-[30px] text-white font-bold text-center'>Security and Privacy</h4>
                             </div>
                         </div>
                     </div>
@@ -99,9 +99,9 @@ const BlockChain = () => {
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
-                                    <p className='ff-recharge text-[32px] leading-[51px] text-white font-bold text-center'>2</p>
+                                    <p className='ff-recharge text-[24px] sm:text-[32px] leading-[51px] text-white font-bold text-center'>2</p>
                                 </div>
-                                <h4 className='ff-recharge text-[20px] leading-[32px] max-w-[212px] pt-[30px] text-white font-bold text-center'>Transparent and Reliable Data Management</h4>
+                                <h4 className='ff-recharge text-[16px] sm:text-[20px] leading-[32px] max-w-[212px] pt-[30px] text-white font-bold text-center'>Transparent and Reliable Data Management</h4>
                             </div>
                         </div>
                     </div>
@@ -109,9 +109,9 @@ const BlockChain = () => {
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
-                                    <p className='ff-recharge text-[32px] leading-[51px] text-white font-bold text-center'>3</p>
+                                    <p className='ff-recharge text-[24px] sm:text-[32px] leading-[51px] text-white font-bold text-center'>3</p>
                                 </div>
-                                <h4 className='ff-recharge text-[20px] leading-[32px] max-w-[212px] pt-[30px] text-white font-bold text-center'>Self-learning and Personalization</h4>
+                                <h4 className='ff-recharge text-[16px] sm:text-[20px] leading-[32px] max-w-[212px] pt-[30px] text-white font-bold text-center'>Self-learning and Personalization</h4>
                             </div>
                         </div>
                     </div>
@@ -119,9 +119,9 @@ const BlockChain = () => {
                         <div className="bg-[url(./assets/images/Polygon-img.webp)] ml-5 bg-no-repeat bg-full max-w-[367px] min-h-[367px]">
                             <div className='flex flex-col items-center justify-center w-full min-h-[367px]'>
                                 <div className="max-w-[58px] min-h-[58px] bg-[#040404] w-full rounded-full shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
-                                    <p className='ff-recharge text-[32px] leading-[51px] text-white font-bold text-center'>4</p>
+                                    <p className='ff-recharge text-[24px] sm:text-[32px] leading-[51px] text-white font-bold text-center'>4</p>
                                 </div>
-                                <h4 className='ff-recharge text-[20px] leading-[32px] max-w-[212px] pt-[30px] text-white font-bold text-center'>Automated and Transparent Transactions</h4>
+                                <h4 className='ff-recharge text-[16px] sm:text-[20px] leading-[32px] max-w-[212px] pt-[30px] text-white font-bold text-center'>Automated and Transparent Transactions</h4>
                             </div>
                         </div>
                     </div>

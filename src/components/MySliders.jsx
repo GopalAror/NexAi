@@ -56,82 +56,82 @@ const MySliders = () => {
             </div>
             <Slider {...settings} className='more'>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn on light</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn on light</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, set alarm of 5:00 am</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, set alarm of 5:00 am</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, measure this table</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, measure this table</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn on music</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn on music</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn on light</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn on light</p>
                     </div>
                 </div>
             </Slider>
             <Slider rtl {...settings} className='more'>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, measure this table</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, measure this table</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn on music</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn on music</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn on light</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn on light</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, is the front door locked?</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, is the front door locked?</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn on light</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn on light</p>
                     </div>
                 </div>
             </Slider>
             <Slider {...settings} className='more'>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn on TV</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn on TV</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn on music</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn on music</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn of AC.</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn of AC.</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Lock the front door</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Lock the front door</p>
                     </div>
                 </div>
                 <div className='ml-6'>
-                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center shadow-[0px_4px_20px_0px_#02CDCF29]">
-                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white max-w-[254px]'>NexAi, Turn of AC.</p>
+                    <div className="max-w-[340px] ml-6 px-3 min-h-[220px] bg-[#090909] rounded-[16px] flex items-center justify-center group shadow-[0px_4px_20px_0px_#02CDCF29]">
+                        <p className='ff-recharge font-bold text-[18px] sm:text-[24px] text-center leading-[38px] text-white group-hover:text-[#02cdcf] duration-500 max-w-[254px]'>NexAi, Turn of AC.</p>
                     </div>
                 </div>
             </Slider>
