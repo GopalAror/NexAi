@@ -9,13 +9,13 @@ const Token = () => {
             <img className='absolute z-0 left-0 top-[-55%]' src={ellipis1} alt="ellipis" />
             <img className='absolute z-0 right-0 top-[-20%]' src={ellipis2} alt="ellipis" />
             <img className='absolute z-0 top-[-10%] right-0' src={ellipis3} alt="ellipis" />
-            <div className="max-w-[1240px] relative z-[1] mx-auto px-3" id="token">
-                <h2 className='text-[#02CDCF] ff-recharge font-bold leading-[25px] sm:leading-[50px] text-center sm:text-[30px] text-[20px] md:text-[40px] pb-[25px] sm:pb-[47px]'>NexAI Token & utility</h2>
+            <div className="max-w-[1240px]  mx-auto px-3" id="token">
+                <h2 className='text-[#02CDCF] relative z-[1] ff-recharge font-bold leading-[25px] sm:leading-[50px] text-center sm:text-[30px] text-[20px] md:text-[40px] pb-[25px] sm:pb-[47px]'>NexAI Token & utility</h2>
                 <div className="flex flex-row flex-wrap justify-between -mx-3">
                     <div className="md:w-6/12 w-full flex items-center justify-center md:max-w-[571px] px-3">
-                        <img className='w-full relative z-0' data-aos="fade-right" src={hand} alt="hand" />
+                        <img className='w-full' data-aos="fade-right" src={hand} alt="hand" />
                     </div>
-                    <div className="md:w-6/12  w-full sm:max-w-[670px] px-3 h-[430px] flex justify-end scroll overflow-y-scroll mt-[63px]" data-aos="fade-left">
+                    <div className="md:w-6/12 relative z-[1] w-full sm:max-w-[670px] px-3 h-[430px] flex justify-end scroll overflow-y-scroll mt-[63px]" data-aos="fade-left">
                         <ol className="relative  after:absolute after:w-[10px] after:sm:min-h-[1430px] after:max-[550px]:min-h-[1430px] after:min-h-[1150px] after:min after:top-0 after:bottom-0 after:left-[-1.5%] after:sm:left-[-8%] overflow-visible after:rounded-[15px] after:z-[1] after:bg-[#02CDCF]">
                             <li className="mb-14 ms-4">
                                 <div className="absolute w-6 h-6 z-[2] bg-[#FCFCFC] rounded-full mt-[90px] sm:left-[-9.2%] -start-[13px] border border-white dark:border-gray-900 dark:bg-gray-700"></div>

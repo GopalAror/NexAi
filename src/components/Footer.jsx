@@ -23,7 +23,7 @@ const Footer = () => {
                             </a>
                         </div>
                     </div>
-                    <div className="md:w-6/12 w-full px-3 max-w-[395px] pt-[40px] md:pt-[90px]">
+                    <div className="md:w-6/12 w-full px-3 max-w-[395px] pt-[40px] md:pt-[70px]">
                         <div className='flex flex-row flex-wrap -mx-3 justify-between'>
                             <div className='w-6/12 px-3 max-w-[145px]'>
                                 <p className='ff-recharge font-bold text-[16px] sm:text-[18px] leading-[21px] text-white'>Quick links</p>

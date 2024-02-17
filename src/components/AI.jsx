@@ -14,8 +14,9 @@ const AI = () => {
                             <p className='max-w-[564px] opacity-70 pt-2 text-[13px] sm:text-[16px] leading-[25px] pb-[20px] sm:pb-[40px] text-white font-poppins font-normal'>Nexai's software can be installed on all your smart devices, including smartphones, computers, smart TVs, and kitchen appliances. It acts as a centralized control hub, allowing you to manage and interact with all your devices seamlessly. Whether it's adjusting the temperature, turning on appliances, or even accessing files on your home computer from anywhere, Nexai empowers you with effortless control.</p>
                             <Commonbtn text="Learn More" />
                         </div>
-                        <div className="md:w-6/12 w-full px-3 max-md:pt-8">
-                            <img className='w-full max-md:rounded-full' data-aos="fade-left" src={ai} alt="ai" />
+                        <div className="md:w-6/12 w-full px-3 max-md:pt-8 relative">
+                            <div className="max-w-[468px] min-h-[463px] w-full rounded-full mix-blend-hue blur-3xl top-0 bottom-0 bg-[#02CDCF] absolute z-[3]"></div>
+                            <img className='w-full max-md:rounded-full relative z-[4] mix-blend-lighten' src={ai} alt="ai" />
                         </div>
                     </div>
                 </div>
