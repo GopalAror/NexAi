@@ -27,8 +27,8 @@ function App() {
   useEffect(() => {
     AOS.init(
       {
-        once : true,
-        duration : 2000,
+        once: true,
+        duration: 2000,
       }
     );
   }, [])
@@ -36,7 +36,7 @@ function App() {
     <div>
       {loading ? (<div><Loader /></div>) : (<div className="bg-[#040404]">
         <div className=' md:py-[10px] relative overflow-x-clip'>
-          <div className='bg-[url(./assets/images/bg-hero.webp)] w-full bg-cover bg-no-repeat min-h-screen bg-center flex flex-col'>
+          <div className='bg-[url(./assets/images/bg-hero.webp)] w-full bg-cover md:bg-full bg-no-repeat min-h-screen bg-center flex flex-col'>
             <MyNav />
             <Header />
           </div>
