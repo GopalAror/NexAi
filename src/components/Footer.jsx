@@ -26,7 +26,7 @@ const Footer = () => {
                     <div className="md:w-6/12 w-full px-3 max-w-[395px] pt-[40px] md:pt-[90px]">
                         <div className='flex flex-row flex-wrap -mx-3 justify-between'>
                             <div className='w-6/12 px-3 max-w-[145px]'>
-                                <p className='ff-recharge font-bold text-[15px] sm:text-[18px] leading-[21px] text-white'>Quick links</p>
+                                <p className='ff-recharge font-bold text-[16px] sm:text-[18px] leading-[21px] text-white'>Quick links</p>
                                 <ul>
                                     <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Home</a></li>
                                     <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Features</a></li>
@@ -37,7 +37,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                             <div className='w-6/12 px-3 max-w-[165px]'>
-                                <p className='ff-recharge font-bold text-[15px] sm:text-[18px] leading-[21px] text-white'>Information's</p>
+                                <p className='ff-recharge font-bold text-[16px] sm:text-[18px] leading-[21px] text-white'>Information's</p>
                                 <ul>
                                     <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Contact</a></li>
                                     <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Phone</a></li>
