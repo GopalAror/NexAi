@@ -3,7 +3,6 @@ import remote from "../assets/images/remote-svg.svg";
 import real from "../assets/images/real-time.svg";
 import natural from "../assets/images/natural.svg";
 import intelligent from "../assets/images/intelligent.svg";
-
 const Feature = () => {
     return (
         <div className='sm:px-[50px] px-2 pt-[75px] md:pt-[120px] overflow-x-clip'>
@@ -13,7 +12,7 @@ const Feature = () => {
                         <h2 className='md:text-[40px] sm:text-[30px] text-[20px] ff-recharge text-[#FCFCFC] text-center  font-bold leading-[50px]' data-aos="zoom-in-down">Unique features</h2>
                         <p className='font-poppins font-normal opacity-70 text-[13px] sm:text-[16px] leading-[25px] text-center sm:pt-4 text-white max-w-[397px]' data-aos="zoom-in-down">ability to engage in natural, fluent conversations in over 15 languages,</p>
                     </div>
-                    <div className="flex flex-row flex-wrap -mx-3 h-[480px] scroll overflow-y-scroll justify-between">
+                    <div className="flex flex-row flex-wrap -mx-3 h-[485px] scroll overflow-y-scroll justify-between">
                         <div className=' w-full md:w-6/12 px-3 flex justify-start'>
                             <div className="max-w-[364px] h-[410px] rounded-[16px] bg-white px-6 pt-[30px] border border-white" data-aos="fade-right">
                                 <img src={remote} alt="remote-svg" />
@@ -48,5 +47,4 @@ const Feature = () => {
         </div>
     )
 }
-
 export default Feature
