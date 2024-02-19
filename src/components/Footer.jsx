@@ -28,21 +28,21 @@ const Footer = () => {
                             <div className='w-6/12 px-3 max-w-[145px]'>
                                 <p className='ff-recharge font-bold text-[16px] sm:text-[18px] leading-[21px] text-white'>Quick links</p>
                                 <ul>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Home</a></li>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Features</a></li>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Marketplace</a></li>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Tokens</a></li>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">NexChat</a></li>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">About</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Home</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Features</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Marketplace</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Tokens</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">NexChat</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">About</a></li>
                                 </ul>
                             </div>
                             <div className='w-6/12 px-3 max-w-[165px]'>
                                 <p className='ff-recharge font-bold text-[16px] sm:text-[18px] leading-[21px] text-white'>Information's</p>
                                 <ul>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Contact</a></li>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Phone</a></li>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">terms</a></li>
-                                    <li className='pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Privacy</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Contact</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Phone</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">terms</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Privacy</a></li>
                                 </ul>
                             </div>
                         </div>
