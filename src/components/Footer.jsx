@@ -6,7 +6,7 @@ import telegram from "../assets/images/telegram.svg";
 const Footer = () => {
     return (
         <div className='bg-[url(./assets/images/footer-bg.webp)] relative z-[1] bg-full max-md:bg-cover bg-no-repeat w-full h-full'>
-            <div className="max-w-[1140px] mx-auto px-3 mt-[31px]">
+            <div className="max-w-[1140px] mx-auto px-3 mt-[31px]" id="foot">
                 <div className="flex flex-row flex-wrap justify-between -mx-3 pb-[30px]">
                     <div className="md:w-6/12 w-full px-3 max-w-[356px] pt-14">
                         <a href='#' className='text-[#02CDCF] ff-recharge font-bold leading-[50px] text-[24px] sm:text-[28px]'>Nex<span className='text-white'>AI</span></a>
@@ -28,21 +28,21 @@ const Footer = () => {
                             <div className='w-6/12 px-3 max-w-[145px]'>
                                 <p className='ff-recharge font-bold text-[16px] sm:text-[18px] leading-[21px] text-white'>Quick links</p>
                                 <ul>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Home</a></li>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Features</a></li>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Marketplace</a></li>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Tokens</a></li>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">NexChat</a></li>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">About</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#home" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Home</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#feature" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Features</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#chain" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Marketplace</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#token" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Tokens</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#chat" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">NexChat</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#about" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">About</a></li>
                                 </ul>
                             </div>
                             <div className='w-6/12 px-3 max-w-[165px]'>
                                 <p className='ff-recharge font-bold text-[16px] sm:text-[18px] leading-[21px] text-white'>Information's</p>
                                 <ul>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Contact</a></li>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Phone</a></li>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">terms</a></li>
-                                    <li className=' pt-3 md:pt-5'><a href="#" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Privacy</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#foot" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Contact</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#foot" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Phone</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#foot" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">terms</a></li>
+                                    <li className=' pt-3 md:pt-5'><a href="#foot" className="opacity-70 ff-recharge font-bold text-[13px] sm:text-[16px] leading-[19px] hover:opacity-100 duration-500 text-white">Privacy</a></li>
                                 </ul>
                             </div>
                         </div>

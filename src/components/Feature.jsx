@@ -2,7 +2,7 @@ import React from 'react'
 const Feature = () => {
     return (
         <div className='sm:px-[50px] px-2 pt-[75px] md:pt-[120px] overflow-x-clip'>
-            <div className="w-full scroll relative z-[1] overflow-hidden bg-[url(./assets/images/unique-bg.webp)] rounded-[24px] border border-[#FCFCFC] max-w-[1340px] mx-auto h-[659px] md:h-[750px] bg-cover md:bg-full bg-no-repeat bg-center px-3" id="market">
+            <div className="w-full scroll relative z-[1] overflow-hidden bg-[url(./assets/images/unique-bg.webp)] rounded-[24px] border border-[#FCFCFC] max-w-[1340px] mx-auto h-[659px] md:h-[750px] bg-cover md:bg-full bg-no-repeat bg-center px-3" id="feature">
                 <div className="max-w-[1140px] relative py-2 px-3 w-full mx-auto">
                     <div className='md:py-[70px] sm:py-[40px] py-8 flex flex-col items-center'>
                         <h2 className='md:text-[40px] sm:text-[30px] text-[20px] ff-recharge text-[#FCFCFC] text-center  font-bold leading-[50px]' data-aos="zoom-in-down">Unique features</h2>
