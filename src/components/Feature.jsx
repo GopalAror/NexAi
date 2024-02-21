@@ -6,7 +6,7 @@ const Feature = () => {
                 <div className="max-w-[1140px] relative py-2 px-3 w-full mx-auto">
                     <div className='md:py-[70px] sm:py-[40px] py-8 flex flex-col items-center'>
                         <h2 className='md:text-[40px] sm:text-[30px] text-[20px] ff-recharge text-[#FCFCFC] text-center  font-bold leading-[50px]' data-aos="zoom-in-down">Unique features</h2>
-                        <p className='font-poppins font-normal opacity-70 text-[13px] sm:text-[16px] leading-[25px] text-center sm:pt-4 text-white max-w-[397px]' data-aos="zoom-in-down">ability to engage in natural, fluent conversations in over 15 languages,</p>
+                        <p className='font-poppins font-normal !opacity-70 text-[13px] sm:text-[16px] leading-[25px] text-center sm:pt-4 text-white max-w-[397px]' data-aos="zoom-in-down">ability to engage in natural, fluent conversations in over 15 languages,</p>
                     </div>
                     <div className="flex flex-row flex-wrap -mx-3 h-[485px] overflow-x-clip scroll overflow-y-scroll justify-between">
                         <div className=' w-full md:w-6/12 px-3 flex justify-start'>

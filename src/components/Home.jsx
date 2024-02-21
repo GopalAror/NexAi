@@ -16,9 +16,9 @@ const Home = () => {
                     </div>
                     <div className="md:w-6/12 w-full max-md:pt-8 pl-3 md:pl-[44px] max-w-[517px] flex flex-col justify-end">
                         <h2 className='sm:pb-4 pb-2 text-[#02CDCF] ff-recharge font-bold text-[20px] sm:text-[30px] md:text-[40px] sm:leading-[40px] leading-[27px] md:leading-[50px]' data-aos="fade-left">Ai-Powered Home Assistant</h2>
-                        <p className='opacity-70 text-white font-poppins font-normal leading-[25px] text-[13px] sm:text-[16px] pb-[6px]' data-aos="fade-left">Nexai is an advanced AI-powered home assistant that brings the future to your fingertips. With its ability to engage in natural, fluent conversations in over 15 languages,</p>
-                        <p className='opacity-70 text-white font-poppins font-normal leading-[25px] text-[13px] sm:text-[16px] pb-[6px]' data-aos="fade-left">Nexai offers an incredibly futuristic experience. It can take the initiative to ask about your day, schedule meetings, provide timely reminders</p>
-                        <p className='opacity-70 text-white pb-[20px] sm:pb-[40px] font-poppins font-normal leading-[25px] text-[13px] sm:text-[16px]' data-aos="fade-left">assist with cooking by suggesting ingredients, track your fitness and nutrition goals, and even handle bill payments.</p>
+                        <p className='!opacity-70 text-white font-poppins font-normal leading-[25px] text-[13px] sm:text-[16px] pb-[6px]' data-aos="fade-left">Nexai is an advanced AI-powered home assistant that brings the future to your fingertips. With its ability to engage in natural, fluent conversations in over 15 languages,</p>
+                        <p className='!opacity-70 text-white font-poppins font-normal leading-[25px] text-[13px] sm:text-[16px] pb-[6px]' data-aos="fade-left">Nexai offers an incredibly futuristic experience. It can take the initiative to ask about your day, schedule meetings, provide timely reminders</p>
+                        <p className='!opacity-70 text-white pb-[20px] sm:pb-[40px] font-poppins font-normal leading-[25px] text-[13px] sm:text-[16px]' data-aos="fade-left">assist with cooking by suggesting ingredients, track your fitness and nutrition goals, and even handle bill payments.</p>
                         <div data-aos="fade-left">
                             <Commonbtn text="Learn More" />
                         </div>
