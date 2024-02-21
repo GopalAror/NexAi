@@ -10,7 +10,7 @@ const Token = () => {
             <img className='absolute z-0 right-0 top-[-20%]' src={ellipis2} alt="ellipis" />
             <img className='absolute z-0 top-[-10%] right-0' src={ellipis3} alt="ellipis" />
             <div className="max-w-[1240px]  mx-auto px-3" id="token">
-                <h2 className='text-[#02CDCF] relative z-[1] ff-recharge font-bold leading-[25px] sm:leading-[50px] text-center sm:text-[30px] text-[20px] md:text-[40px] pb-[25px] sm:pb-[47px]'>NexAI Token & utility</h2>
+                <h2 className='text-[#02CDCF] relative z-[1] ff-recharge font-bold leading-[25px] sm:leading-[50px] text-center sm:text-[35px] text-[30px] md:text-[40px] pb-[25px] sm:pb-[47px]'>NexAI Token & utility</h2>
                 <div className="flex flex-row flex-wrap justify-between -mx-3">
                     <div className="md:w-6/12 w-full flex items-center justify-center md:max-w-[571px] px-3">
                         <img className='w-full' data-aos="fade-right" src={hand} alt="hand" />
