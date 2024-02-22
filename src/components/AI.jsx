@@ -6,7 +6,7 @@ const AI = () => {
     return (
         <div className='py-[50px] sm:py-[160px] mx-3 overflow-x-clip'>
             <div className='bg-[url(./assets/images/ai-bg.webp)] border rounded-[24px] mx-auto px-3 border-[#FCFCFC] bg-no-repeat bg-full max-w-[1340px] w-full ' id="about" >
-                <div className="max-w-[1145px] py-8 px-3 mx-auto flex items-center justify-center min-h-[810px]">
+                <div className="max-w-[1140px] py-8 px-3 mx-auto flex items-center justify-center min-h-[700px]">
                     <div className="flex flex-row -mx-3 max-md:flex-col-reverse flex-wrap ">
                         <div className="md:w-6/12 w-full relative z-[1] px-3" data-aos="fade-right">
                             <h2 className='text-[#02CDCF] font-bold sm:text-[35px] text-[30px] md:text-[40px] leading-[50px] ff-recharge'>What is NexAi?</h2>
