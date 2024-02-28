@@ -36,7 +36,7 @@ function App() {
     <div>
       {loading ? (<div><Loader /></div>) : (<div className="bg-[#040404]">
         <div className=' md:py-[10px] relative overflow-x-clip'>
-          <div className='bg-[url(./assets/images/bg-hero.webp)] w-full mx-auto bg-cover lg:bg-full max-w-[1440px] bg-no-repeat min-h-screen 2xl:min-h-[810px] bg-center flex flex-col'>
+          <div className='bg-[url(./assets/images/bg-hero.webp)] w-full mx-auto bg-cover lg:bg-full max-w-[1440px] bg-no-repeat min-h-screen 2xl:min-h-[810px] bg-right flex flex-col'>
             <MyNav />
             <Header />
           </div>
