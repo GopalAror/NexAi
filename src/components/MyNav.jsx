@@ -10,7 +10,7 @@ const MyNav = () => {
   return (
     <div>
       <nav>
-        <div className="2xl:max-w-[1130px] xl:max-w-[1050px] max-w-[990px] lg:ml-[100px] xl:ml-[150px] px-3">
+        <div className="2xl:max-w-[1130px] xl:max-w-[1050px] max-w-[990px] lg:ml-[100px] xl:ml-[130px] px-3">
           <div className="flex justify-between items-center w-full h-[80px] sm:h-[100px]">
             <a href='#' className='text-[#02CDCF] ff-recharge font-bold leading-[50px] text-[20px]'>Nex<span className='text-white'>AI</span></a>
             <ul className={`flex items-center gap-5 max-md:flex-col max-md:justify-center max-md:w-full max-md:h-full max-md:fixed max-md:top-0 z-[5] max-md:bg-[#040404] duration-700 ${navbar ? "right-0" : "right-[-100%]"}`}>
