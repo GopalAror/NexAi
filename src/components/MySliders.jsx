@@ -12,7 +12,7 @@ const MySliders = () => {
         autoplay: true,
         cssEase: 'linear',
         speed: 9500,
-        autoplaySpeed: 600,
+        autoplaySpeed: 0,
         pauseOnHover: false,
         swipeToSlide: false,
         responsive: [
